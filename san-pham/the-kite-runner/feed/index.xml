@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: The Kite Runner	</title>
+	Các bình luận về: The Kite Runner	</title>
 	<atom:link href="https://nycane.github.io/mywordpress/san-pham/the-kite-runner/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nycane.github.io/mywordpress/san-pham/the-kite-runner/</link>
 	<description>HIHIHIHIHIHIHIIHIHIHIHI</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 </channel>
 </rss>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: The Helping Hand	</title>
+	Các bình luận về: The Helping Hand	</title>
 	<atom:link href="https://nycane.github.io/mywordpress/san-pham/the-helping-hand/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nycane.github.io/mywordpress/san-pham/the-helping-hand/</link>
 	<description>HIHIHIHIHIHIHIIHIHIHIHI</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 </channel>
 </rss>

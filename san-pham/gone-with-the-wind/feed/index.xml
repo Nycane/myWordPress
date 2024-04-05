@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Gone with the Wind	</title>
+	Các bình luận về: Gone with the Wind	</title>
 	<atom:link href="https://nycane.github.io/mywordpress/san-pham/gone-with-the-wind/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nycane.github.io/mywordpress/san-pham/gone-with-the-wind/</link>
 	<description>HIHIHIHIHIHIHIIHIHIHIHI</description>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.5</generator>
 </channel>
 </rss>
